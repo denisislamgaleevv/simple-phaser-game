@@ -1,7 +1,7 @@
 {
     "frames": [
         {
-            "filename": "largeeliteknight_idle_3",
+            "filename": "executioner_walk_1",
             "frame": {
                 "w": 32,
                 "h": 32,
@@ -14,7 +14,7 @@
             }
         },
         {
-            "filename": "largeeliteknight_idle_2",
+            "filename": "executioner_idle_4",
             "frame": {
                 "w": 32,
                 "h": 32,
@@ -27,7 +27,7 @@
             }
         },
         {
-            "filename": "largeeliteknight_idle_4",
+            "filename": "executioner_walk_2",
             "frame": {
                 "w": 32,
                 "h": 32,
@@ -40,7 +40,7 @@
             }
         },
         {
-            "filename": "largeeliteknight_walk_1",
+            "filename": "executioner_walk_3",
             "frame": {
                 "w": 32,
                 "h": 32,
@@ -53,7 +53,7 @@
             }
         },
         {
-            "filename": "largeeliteknight_walk_2",
+            "filename": "executioner_walk_4",
             "frame": {
                 "w": 32,
                 "h": 32,
@@ -66,7 +66,7 @@
             }
         },
         {
-            "filename": "largeeliteknight_walk_3",
+            "filename": "executioner_idle_1",
             "frame": {
                 "w": 32,
                 "h": 32,
@@ -79,7 +79,7 @@
             }
         },
         {
-            "filename": "largeeliteknight_walk_4",
+            "filename": "executioner_idle_2",
             "frame": {
                 "w": 32,
                 "h": 32,
@@ -92,7 +92,7 @@
             }
         },
         {
-            "filename": "largeeliteknight_idle_1",
+            "filename": "executioner_idle_3",
             "frame": {
                 "w": 32,
                 "h": 32,

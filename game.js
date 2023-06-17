@@ -2,14 +2,14 @@
 import mainScene from './mainScene.js'
 const config = {
     type: Phaser.AUTO, 
-    width: 800, 
+    width: 900, 
     height: 600, 
     parent: 'game', 
     physics:{
         default: 'arcade', 
         arcade:{
             gravity: {y:300}, 
-            debug: true
+            debug: false
         }
     }, 
     scene:[mainScene]
